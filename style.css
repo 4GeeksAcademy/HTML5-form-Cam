@@ -1,0 +1,35 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Lato&display=swap');
+
+
+
+nav{color:black;
+       background: #F7F7F7;
+       border: solid 1px rgb(227, 227, 227);
+       padding-top: 20px;
+       text-align: start;
+       }
+ h4{ padding-left: 20px;}
+ .card-top{
+     color: rgb(126, 38, 38);
+     border: solid 1px crimson;
+     background-color: rgb(247, 203, 203);
+     padding: 10px 20px ;
+     padding-right: 10px;
+     margin-right: 20px;
+     border-radius: 7px;}
+
+.validationServer02{ padding: 20px;}
+
+.card-body{ margin-left: 20px;
+             ;
+}
+.weAccept{ 
+     background-color: rgb(77, 81, 87);
+     border: solid , rgb(77, 81, 87) ;
+     border-radius: 5px;
+     color: #F7F7F7;
+    padding: 10px ;
+            }
+
+     
